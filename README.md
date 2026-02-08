@@ -3,7 +3,7 @@
 Hi 👋  
 I am an Excel Data Specialist skilled in transforming raw and messy data into clean, structured, and insightful reports.
 
-This portfolio showcases real-world Excel projects demonstrating my expertise in data cleaning, formatting, reporting, and automation.
+This portfolio showcases real-world Excel projects demonstrating my expertise in data cleaning, formatting, reporting, and splitting.
 
 ---
 
