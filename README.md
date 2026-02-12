@@ -85,7 +85,7 @@ Each project folder includes:
 ✔ Raw Data  
 ✔ Cleaned Dataset  
 ✔ Final Report / Output  
-✔ Screenshots & Documentation  
+✔ Screenshots
 
 ---
 
