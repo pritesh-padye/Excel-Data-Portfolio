@@ -111,3 +111,6 @@ I am available for freelance Excel projects including:
 ---
 
 ⭐ If you find this portfolio helpful, feel free to explore the projects and connect with me.
+## 👨‍💻 Author
+Pritesh Padye  
+Excel Data Analyst | Data Cleaning Specialist
