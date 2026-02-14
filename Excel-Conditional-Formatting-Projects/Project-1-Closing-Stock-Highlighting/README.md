@@ -67,3 +67,6 @@ To monitor stock levels and take better purchasing and sales decisions.
 ✔ Business-Friendly Visualization  
 ✔ Easy-to-Understand Data Presentation  
 
+## 👨‍💻 Author
+Pritesh Padye  
+Excel Data Analyst | Data Cleaning Specialist
