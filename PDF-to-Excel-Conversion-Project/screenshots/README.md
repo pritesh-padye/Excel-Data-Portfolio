@@ -28,3 +28,6 @@ Displays summarized insights including:
 
 These screenshots demonstrate the complete transformation from unstructured PDF data to business-ready Excel reports.
 
+## 👨‍💻 Author
+Pritesh Padye  
+Excel Data Analyst | Data Cleaning Specialist
