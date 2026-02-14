@@ -48,3 +48,9 @@ This project demonstrates practical Excel data transformation and reporting skil
 - Pivot Table Creation
 - Aggregated Reporting
 - Business Requirement Understanding
+
+---
+
+## 👨‍💻 Author
+Pritesh Padye  
+Excel Data Analyst | Data Cleaning Specialist
