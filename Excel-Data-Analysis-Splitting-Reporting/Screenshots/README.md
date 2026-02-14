@@ -28,4 +28,3 @@ To provide a visual representation of:
 - Data transformation
 - Aggregation logic
 - Final reporting structure
-- 
