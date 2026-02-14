@@ -1,4 +1,4 @@
-# 📊 Excel Closing Stock Conditional Formatting Project
+# 📊 Closing Stock Conditional Formatting Project
 
 ## 📌 Project Overview
 This project demonstrates advanced Custom Conditional Formatting, Data Cleaning, and Professional Tabular Formatting in Microsoft Excel.
