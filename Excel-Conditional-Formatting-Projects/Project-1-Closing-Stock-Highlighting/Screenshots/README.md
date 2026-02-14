@@ -14,3 +14,7 @@ These screenshots demonstrate:
 - Clean professional data presentation
 
 All formatting rules are applied using Microsoft Excel.
+
+## 👨‍💻 Author
+Pritesh Padye  
+Excel Data Analyst | Data Cleaning Specialist
