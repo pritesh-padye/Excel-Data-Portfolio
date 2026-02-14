@@ -89,3 +89,6 @@ This type of workflow is useful for:
 
 ⭐ This project highlights the ability to convert messy data into meaningful insights using Excel.
 
+## 👨‍💻 Author
+Pritesh Padye  
+Excel Data Analyst | Data Cleaning Specialist
