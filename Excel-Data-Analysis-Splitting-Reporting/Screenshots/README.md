@@ -28,3 +28,7 @@ To provide a visual representation of:
 - Data transformation
 - Aggregation logic
 - Final reporting structure
+
+## 👨‍💻 Author
+Pritesh Padye  
+Excel Data Analyst | Data Cleaning Specialist
