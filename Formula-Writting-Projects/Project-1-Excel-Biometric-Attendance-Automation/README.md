@@ -31,7 +31,7 @@ The objective was to transform unstructured biometric logs into a structured and
 ### 2️⃣ Full Name Standardization
 - Created a new **Full_Name** column.
 - Used `TEXTJOIN` to combine:
-  - Title (Mr.)
+  - Title (Mr./Ms.)
   - First_Name
   - Last_Name
 - Applied proper spacing and handled blank values.
