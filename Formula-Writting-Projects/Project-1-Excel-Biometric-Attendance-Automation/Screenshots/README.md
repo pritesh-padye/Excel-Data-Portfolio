@@ -23,7 +23,7 @@ This folder contains visual representations of the biometric attendance data tra
 ### 3️⃣ Full_Name Column Creation
 - Screenshot displaying the `TEXTJOIN` formula.
 - Shows concatenation of:
-  - Title (Mr.)
+  - Title (Mr./Ms.)
   - First_Name
   - Last_Name
 - Demonstrates standardized naming format.
